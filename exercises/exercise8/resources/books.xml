@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BookShelf>
+                
+    
+    
+    <Book>
+                                
+        
+        
+        <title>The Silent Ocean</title>
+                                
+        
+        
+        <publishedYear>2021</publishedYear>
+                                
+        
+        
+        <numberOfPages>350</numberOfPages>
+                                
+        
+        
+        <authors>
+                                                
+            
+            
+            <author>John Smith</author>
+                                                
+            
+            
+            <author>Emily White</author>
+                                            
+        
+        
+        </authors>
+                            
+    
+    
+    </Book>
+                
+    
+    
+    <Book>
+                                
+        
+        
+        <title>Whispers of the Past</title>
+                                
+        
+        
+        <publishedYear>2018</publishedYear>
+                                
+        
+        
+        <numberOfPages>420</numberOfPages>
+                                
+        
+        
+        <authors>
+                                                
+            
+            
+            <author>Sarah Johnson</author>
+                                                
+            
+            
+            <author>Alex Black</author>
+                                            
+        
+        
+        </authors>
+                            
+    
+    
+    </Book>
+                
+    
+    
+    <Book>
+                                
+        
+        
+        <title>A Journey Through Time</title>
+                                
+        
+        
+        <publishedYear>2020</publishedYear>
+                                
+        
+        
+        <numberOfPages>300</numberOfPages>
+                                
+        
+        
+        <authors>
+                                                
+            
+            
+            <author>Michael Brown</author>
+                                            
+        
+        
+        </authors>
+                            
+    
+    
+    </Book>
+            
+    
+    
+    <Book>
+                        
+        
+        <title>The Rising Sun</title>
+                        
+        
+        <publishedYear>2023</publishedYear>
+                        
+        
+        <numberOfPages>280</numberOfPages>
+                        
+        
+        <authors>
+                                    
+            
+            <author>Alice Green</author>
+                                
+        
+        </authors>
+                    
+    
+    </Book>
+        
+    
+    <Book>
+                
+        <title>The Rising Sun</title>
+                
+        <publishedYear>2023</publishedYear>
+                
+        <numberOfPages>280</numberOfPages>
+                
+        <authors>
+                        
+            <author>Alice Green</author>
+                    
+        </authors>
+            
+    </Book>
+    
+    <Book>
+        <title>The Rising Sun</title>
+        <publishedYear>2024</publishedYear>
+        <numberOfPages>280</numberOfPages>
+        <authors>
+            <author>Alice Green</author>
+        </authors>
+    </Book>
+</BookShelf>
