@@ -1,5 +1,5 @@
 # INFO5100_002309879_Min-Rou-Lin
-For Final Project: use mvn clean javafx:run 
+For Final Project: use commend :  mvn clean javafx:run 
 
 
 ![image](https://github.com/user-attachments/assets/9b0eb020-3b3a-4783-ad4f-9154dfb1ea61)
