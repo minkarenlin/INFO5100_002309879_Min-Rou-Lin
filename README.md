@@ -1,4 +1,7 @@
 # INFO5100_002309879_Min-Rou-Lin
+Image Management Tool
+A JavaFX-based application for managing, converting, and previewing images. This tool allows users to upload images, preview them, convert them to different formats (e.g., PNG, JPG, BMP, GIF), and download the converted images.
+
 For Final Project: use commend :  mvn clean javafx:run 
 
 
